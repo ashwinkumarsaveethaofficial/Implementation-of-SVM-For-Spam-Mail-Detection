@@ -1,4 +1,4 @@
-# Ex 09 -  Implementation-of-SVM-For-Spam-Mail-Detection
+#   Implementation-of-SVM-For-Spam-Mail-Detection
 ## AIM:
 To write a program to implement the SVM For Spam Mail Detection.
 ## Equipments Required:
